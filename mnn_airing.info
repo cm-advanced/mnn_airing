@@ -1,0 +1,25 @@
+name = MNN Airing
+core = 7.x
+
+dependencies[] = date
+dependencies[] = features
+dependencies[] = hms_field
+dependencies[] = options
+dependencies[] = taxonomy
+dependencies[] = text
+features[features_api][] = api:1
+features[field][] = airing-airing-field_airing_channel
+features[field][] = airing-airing-field_airing_date
+features[field][] = airing-airing-field_airing_duration
+features[field][] = airing-airing-field_airing_title
+features[field][] = airing-airing-field_airing_type
+features[taxonomy][] = airing_type
+features[taxonomy][] = channel
+
+
+
+package = "MNN Community Media Advanced"
+version = "7.x-1.x"
+core = "7.x"
+project = "mnn_airing"
+project_status_url = https://github.com/cm-advanced/mnn_airing
