@@ -19,7 +19,7 @@ features[taxonomy][] = channel
 
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.1"
+version = "7.x-1.2"
 core = "7.x"
 project = "mnn_airing"
 project_status_url = https://github.com/cm-advanced/mnn_airing
